@@ -1,0 +1,6 @@
+name: ConfigAPI
+version: ${project.version}
+main: me.necrosis.configapi.ConfigAPI
+api-version: 1.16
+authors: [ Necrosis ]
+description: ConfigAPI
